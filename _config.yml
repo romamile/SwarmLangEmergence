@@ -1,13 +1,13 @@
 # Site settings
-title: 2019 SoCal Robotics Symposium
+title: 2025 Hands-on Workshop: Swarm Robotics as a Test Bed for the Study of Language Emergence
 
-url: http://scr2019.caltech.edu/
+url: https://romamile.com/SwarmLangEmergence/
 baseurl: ''
 
-conference_title: "Southern California Robotics Symposium"
-conference_title_short: "SCR"
-year: "2019"
-infoline_text: "Thanks for attending SCR 2019, see you again next year!"
+conference_title: "Hands-on Workshop: Swarm Robotics as a Test Bed for the Study of Language Emergence"
+conference_title_short: "SwarmLangEmergence"
+year: "2025"
+infoline_text: "Website in progress, more info coming soon!"
 
 # Color settings
 color:
@@ -17,10 +17,10 @@ color:
   accent: '#B89E8F'
 
 # conference data
-background-image: img/afa2_desert_iso.png
+background-image: https://www.how2shout.com/wp-content/uploads/2019/10/Swarm-Robots.jpg
 directions-link: http://directions.link.com
 map-embed: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3302.323048471302!2d-118.12734598467776!3d34.13807638058268!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c4a7f5e60b13%3A0xc12af3fcb43bc03d!2sRamo+Auditorium!5e0!3m2!1sen!2sus!4v1546639172046
-organizer-email : organizer@email.com
+organizer-email : roman.miletitch@mpi.nl
 registration-page : http://registration.com
 upload-form: http://paperupload.com
 
