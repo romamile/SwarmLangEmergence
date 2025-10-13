@@ -7,7 +7,7 @@ baseurl: ''
 conference_title: "Hands-on Workshop: Swarm Robotics as a Test Bed for the Study of Language Emergence"
 conference_title_short: "SwarmLangEmergence"
 year: "2025"
-infoline_text: "Website in progress, more info coming soon!"
+infoline_text: ""
 
 # Color settings
 color:
@@ -21,7 +21,7 @@ background-image: https://www.how2shout.com/wp-content/uploads/2019/10/Swarm-Rob
 directions-link: http://directions.link.com
 map-embed: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1507891.6967643278!2d22.70499964997172!3d42.42558563688526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14acd1b7396f7087%3A0x1148d8b27e3dd480!2s%E2%80%9CBoris%20Hristov%E2%80%9D%20House%20of%20Culture!5e0!3m2!1sen!2snl!4v1760030280274!5m2!1sen!2snl
 organizer-email : roman.miletitch@mpi.nl
-registration-page : http://registration.com
+registration-page : https://www.mpi.nl/page/registration-swarm-robotics
 upload-form: http://paperupload.com
 
 collections:
