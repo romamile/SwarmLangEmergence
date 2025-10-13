@@ -1,6 +1,6 @@
 ---
 name: Roman Miletitch
 title:  Dr, Post Doc at Max Planck Institute
-image: ./img/roman2.jpg
+image: /SwarmLangEmergence/img/roman2.jpg
 link: http://romamile.com
 ---
